@@ -2,7 +2,7 @@
 ## Olá! Eu sou o Gilberto 
 
 Sou desenvolvedor Full-Stack e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-Apaixonado pela área de tecnologia, dedico-me especialmente na criação e solução de problemas back e front.
+Apaixonado pela área de tecnologia, dedico-me especialmente na criação e solução de problemas front e back.
 
 - 📍 Feira de Santana na Bahia
 - 💻 Desenvolvedor web e desktop
